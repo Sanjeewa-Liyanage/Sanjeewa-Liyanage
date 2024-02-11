@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👀 I’m interested in Mobile Application development<br>📚 I'm currently learning: currently learning new technologies and frameworks to enhance my skills<br>🎯 Goals: Become a proficient mobile app developer and contribute to innovative projects<br>🎲 Fun fact: I enjoy exploring new places and cuisines in my free time!</p>
+<p align="left">👀 I’m interested in Mobile Application development<br>📚 I'm currently learning new technologies and frameworks to enhance my skills<br>🎯 Goals: Become a proficient mobile app developer and contribute to innovative projects<br>🎲 Fun fact: I enjoy exploring new places and cuisines in my free time!</p>
 
 ###
 
