@@ -21,7 +21,7 @@
 ###
 <h2 align="left">Work</h2>
 
-<p align="left">💼 I'm currently working as a Mobile Application Developer at WebWizards</p>
+<p align="left">💼 I'm currently working as a Mobile Application Developer at <a href="https://webwizardsolution.com/">WebWizards</a></p>
 
 ###
 
