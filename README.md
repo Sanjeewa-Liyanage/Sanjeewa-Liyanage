@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sanjeewa-Liyanage&theme=dark_lover" alt="Sanjeewa-Liyanage" /></a> </p>
 
 - 🔭 I’m currently working on **Trackify**
-- 💬 Ask me about **React, Next, Java**
+- 💬 Ask me about **React, Next, Java, TypeScript**
 - 📫 How to reach me **liyanages158@gmail.com**
 - ⚡ Fun fact **I enjoy exploring new places and capturing the moments in my free time!**
 
