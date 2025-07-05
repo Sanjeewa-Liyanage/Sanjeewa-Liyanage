@@ -11,7 +11,8 @@
 - ⚡ Fun fact **I enjoy exploring new places and capturing the moments in my free time!**
 
   
-![GitHub Contribution Graph](https://github.com/Sanjeewa-Liyanage.png)
+![GitHub Snake](https://sanjeewa-liyanage.github.io/Sanjeewa-Liyanage/github-contribution-grid-snake.svg)
+
 
 
 
