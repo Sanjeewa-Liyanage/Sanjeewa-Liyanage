@@ -11,7 +11,8 @@
 - ⚡ Fun fact **I enjoy exploring new places and capturing the moments in my free time!**
 
   
-![github-contribution-snake](https://raw.githubusercontent.com/Platane/snk/master/images/snake-dark.svg)
+![github-contribution-snake](https://github.com/Sanjeewa-Liyanage.png?snake=social)
+
 
 
 
