@@ -11,7 +11,8 @@
 - ⚡ Fun fact **I enjoy exploring new places and capturing the moments in my free time!**
 
   
-![github-contribution-snake](https://github.com/Sanjeewa-Liyanage.png?snake=social)
+![github-contribution-snake](https://raw.githubusercontent.com/Platane/snk/master/images/snake-dark.svg)
+
 
 
 <div> <a href="https://www.linkedin.com/in/https://lk.linkedin.com/in/sanjeewa-prabath-liyanage" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
